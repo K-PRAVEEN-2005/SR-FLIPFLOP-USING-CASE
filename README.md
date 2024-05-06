@@ -43,7 +43,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 5.For different input combinations generate the timing diagram.
 
-# PROGRAM
+**PROGRAM**
 Program for flipflops and verify its truth table in quartus using Verilog programming.
  
 **Developed by:PRAVEEN K**
